@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about_me on Wezadore blog</title>
+    <link>https://wezadore.github.io/tags/about_me/</link>
+    <description>Recent content in about_me on Wezadore blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://wezadore.github.io/tags/about_me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://wezadore.github.io/aboutme/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wezadore.github.io/aboutme/</guid>
+      <description>You came here to get to know the person behind this blog. Except that I&amp;rsquo;m nobody and don&amp;rsquo;t intend to be anybody in particular. I just share some ideas with you freely. I like absolute, unadulterated freedom. A fervent defender of OpenSource. I like to work with open source technologies while contributing to them. I wish you an excellent reading. If you have any questions, I invite you to send me a message on twitter : https://twitter.</description>
+    </item>
+    
+  </channel>
+</rss>
